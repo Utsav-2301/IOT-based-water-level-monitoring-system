@@ -1,1 +1,2 @@
 # IOT-based-water-level-monitoring-system
+The data collected by the sensors is being uploaded on the cloud so that a model can be run on the cloud itself in real time to get accurate results The src file contains all the libraries built using C/C++ The ino file contains the code for nodemcu or any ESP8266 based microcontroller which is responsible for the data collection using sensors. The version of esp8266 has to be downgraded to 2.7.4 to make the project work
